@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d70498e-2ed4-4835-a121-df3cca0d0f94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myprogress.iml" afterDir="false" />
-    </list>
+    <list default="true" id="3d70498e-2ed4-4835-a121-df3cca0d0f94" name="Changes" comment="first work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,12 +52,25 @@
       <updated>1689339524125</updated>
       <workItem from="1689339525458" duration="7791000" />
       <workItem from="1689413592037" duration="5190000" />
-      <workItem from="1689419265652" duration="9247000" />
+      <workItem from="1689419265652" duration="9473000" />
     </task>
+    <task id="LOCAL-00001" summary="first work">
+      <option name="closed" value="true" />
+      <created>1689589281270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689589281270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first work" />
+    <option name="LAST_COMMIT_MESSAGE" value="first work" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Myprogress$function1.coverage" NAME="function1 Coverage Results" MODIFIED="1689361324323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
